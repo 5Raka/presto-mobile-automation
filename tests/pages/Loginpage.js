@@ -1,4 +1,4 @@
-class LoginPage {
+class Loginpage {
   get email() { return $('~emailInput'); }
   get password() { return $('~passwordInput'); }
   get loginBtn() { return $('~loginButton'); }
