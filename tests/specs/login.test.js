@@ -1,4 +1,4 @@
-const LoginPage = require('../pages/LoginPage');
+const Loginpage = require('../pages/LoginPage');
 
 describe('Login Test', () => {
   it('should show error on invalid login', async () => {
