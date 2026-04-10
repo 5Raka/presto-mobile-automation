@@ -1,0 +1,7 @@
+{
+    "name": "presto-automation",
+    "version": "1.0.0",
+    "scripts": {
+      "test": "wdio run config/wdio.conf.js"
+    }
+  }
